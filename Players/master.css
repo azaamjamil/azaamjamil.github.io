@@ -27,9 +27,13 @@ tr, th {
 	padding: 10px;
 }
 
+
+
 .bio {
-    position: relative;
-    left: 1px;
+    margin:0 auto;
+    margin-left: auto;
+    margin-right:auto;
+    width: 750px;
 }
 
 html, body {
@@ -38,8 +42,10 @@ html, body {
 
 
 .stats {
-    margin-left: 435px;
-    margin-right: auto;
+    margin:0 auto;
+    margin-left: auto;
+    margin-right:auto;
+    width: 380px;
 }
 
 html, body {
