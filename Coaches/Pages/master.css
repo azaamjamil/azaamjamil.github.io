@@ -1,0 +1,53 @@
+body{
+	text-align: center;
+}
+
+h1, table {
+	text-align: center;
+	align-self: center;
+	margin: 0px auto; 
+}
+
+.champ {
+	padding: 10px;
+	display: inline-block;
+	margin: 0 auto;
+	width: 40%;
+	height: 40px;
+    width: 25px;
+}
+
+img, table {
+	display: block;
+    margin: auto;
+    width: 40%;
+}
+
+tr, th {
+	padding: 10px;
+}
+
+
+
+.bio {
+    margin:0 auto;
+    margin-left: auto;
+    margin-right:auto;
+    width: 750px;
+}
+
+html, body {
+    width: 100%;
+}
+
+
+.stats {
+    margin:0 auto;
+    margin-left: auto;
+    margin-right:auto;
+    width: 380px;
+}
+
+html, body {
+    width: 100%;
+}
