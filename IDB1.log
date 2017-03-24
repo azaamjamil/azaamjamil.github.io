@@ -1,3 +1,33 @@
+commit 4a09bd265af6004a68db0973aff6d9a008653801
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 20:16:41 2017 -0500
+
+    Check the Grammar and Links for Project
+
+commit e49d1672a6e2b95f1e60792641d0acbe95d8304e
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 19:06:51 2017 -0500
+
+    Stretched the landing page a little more
+
+commit 0d13239fbc92c4c2b3794710f28daec4f7514f86
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 17:48:09 2017 -0500
+
+    Added a class in Bootstrap
+
+commit 587d535bbab45278f42acf70e627f9aeba06d552
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Thu Mar 23 17:46:47 2017 -0500
+
+    Create landing page and middle navbar
+
+commit 12280fdd2566d88aec7c99fd1d7a1cd1983716d7
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 17:42:47 2017 -0500
+
+    Created LOg, Adjusted the about file
+
 commit e8916fa7d5d5515178a94ac020e9058f6adc6b74
 Merge: 4399847 64c7024
 Author: Natasha Pirani <natashapirani@utexas.edu>
