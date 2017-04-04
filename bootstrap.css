@@ -1688,8 +1688,8 @@ pre code {
   }
 }
 .container-fluid {
-  margin: 0 auto;
-  width: 355px;
+  /*margin: 0 auto;*/
+  width: 500px;
   text-align: center;
   /*margin-right: auto;
   margin-left: auto;
@@ -4587,7 +4587,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default {
   text-align: center;
-  background-color: #EBEDEF;
+  background-color: #000000;
   border-color: #222222;
 }
 .navbar-default .navbar-brand {
@@ -4603,7 +4603,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a {
   text-align: center;
-  color: #000000;
+  color: #ffffff;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -7162,4 +7162,13 @@ input[type="checkbox"] {
 }
 .modal .close {
   color: #222222;
+}
+.extra{
+  text-align: left;
+  background-color: #cc0000;
+  line-height:100%;
+  font-size: 20px;
+  font-style: oblique;
+/*  font-weight: bold;*/
+  font-family: "Verdana", sans-serif;
 }
