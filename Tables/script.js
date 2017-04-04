@@ -1,6 +1,9 @@
-function sortTable(col,sortDown) {
+function sortTable(col,sortDown, el) {
   var table, rows, switching, i, x, y, shouldSwitch;
   table = document.getElementById("myTable");
+  //calls vilisbilty function to make all images visible
+  visible();
+  el.style.visibility = "hidden";
   switching = true;
   /*Make a loop that will continue until
   no switching has been done:*/
@@ -35,5 +38,15 @@ function sortTable(col,sortDown) {
       rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
       switching = true;
     }
+  }
+  //hides the element you just clicked
+}
+
+function visible() {
+  //grabs all the images
+  var images = document.getElementsByTagName('img'); 
+  //goes through them and sets them visible
+  for(var i = 0; i < images.length; i++) {
+      images[i].style.visibility = "visible";
   }
 }

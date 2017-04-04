@@ -6,13 +6,14 @@
 
   <title>Players</title>
 
-<link rel = "stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css"> 
+<!-- <link rel = "stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">  -->
 
-<!--   <link rel="stylesheet" href="bootstrap.css">
- -->
+
 <script type = "text/javascript" src = "https://code.jquery.com/jquery-1.12.3.min.js"></script>
 
 <script type = "text/javascript" src = "https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+
+<link rel="stylesheet" href="bootstrap.css">
 
 <script type = "text/javascript">
 
@@ -27,11 +28,25 @@ $("#dattable").DataTable({
 
 
 </head>
-<body>
+<body class="text-center">
+
+	<br>
+	<nav class="navbar navbar-default">
+	  <div class="container-fluid">
+	    <ul class="nav navbar-nav">
+	      <li><a href="../index.html">Home</a></li>
+	      <li><a href="./PlayersIndex.html">Players</a></li>
+	      <li><a href="./TeamsIndex.html">Teams</a></li>
+	      <li class="active"><a href="./CoachesIndex.html">Coaches</a></li>
+	      <li><a href="../about.html">About</a></li>
+	    </ul>
+	  </div>
+	</nav>
+	
 	<h1>Players</h1>
 	<br>
 
-	<table id = "dattable">
+	<table class = "table table-hover table-bordered" id = "dattable">
 	<thead>	
 			<tr>
 				<th>Player</th>
