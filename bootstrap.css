@@ -1142,6 +1142,18 @@ img {
   height: 60px;
   width: 40px;
 }
+.img-logo {
+  line-height: 1.4;
+  background-color: #ffffff;
+  border-radius: 0;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  display: inline-block;
+  max-width: 100%;
+  height: 22px;
+  width: 22px;
+}
 .img-picture {
   padding: 4px;
   line-height: 1.4;
@@ -7165,10 +7177,9 @@ input[type="checkbox"] {
 }
 .extra{
   text-align: left;
-  background-color: #cc0000;
   line-height:100%;
-  font-size: 20px;
-  font-style: oblique;
+  font-size: 20px;/*
+  font-style: oblique;*/
 /*  font-weight: bold;*/
-  font-family: "Verdana", sans-serif;
+  font-family: "Palatino Linotype";
 }
