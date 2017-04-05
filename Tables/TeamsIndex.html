@@ -2,12 +2,25 @@
 
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+	<meta charset="utf-8">
 
-  <title>Teams</title>
+	<title>Teams</title>
+	<script type = "text/javascript" src = "https://code.jquery.com/jquery-1.12.3.min.js"></script>
 
-  
-  <link rel="stylesheet" href="../bootstrap.css">
+	<script type = "text/javascript" src = "https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+
+	<link rel="stylesheet" href="../bootstrap.css">
+
+	<script type = "text/javascript">
+
+	$(document).ready(function(){
+
+	$("#dattable").DataTable({
+		"lengthMenu": [[2,4,-1],[2,4,"All"]]
+	});
+	});
+
+	</script>
 
 
 </head>
@@ -16,9 +29,9 @@
 	<nav class="navbar navbar-default">
 	  <div class="container-fluid">
 	    <ul class="nav navbar-nav">
-	      <li><a href="../index.html">Home</a></li>
+	      <li class="extra"><a href="../index.html">Off the Glass</a></li>
 	      <li><a href="./PlayersIndex.html">Players</a></li>
-	      <li class="active"><a href="./TeamsIndex.html">Teams</a></li>
+	      <li><a href="./TeamsIndex.html">Teams</a></li>
 	      <li><a href="./CoachesIndex.html">Coaches</a></li>
 	      <li><a href="../about.html">About</a></li>
 	    </ul>
@@ -28,17 +41,18 @@
 	<h1>Teams</h1>
 	<br>
 
-	<script src="script.js"></script>
-
-	<table id="myTable" class="table table-hover table-bordered">
+	<table class="table table-hover table-bordered" id="dattable">
+		<thead>
 		<tr>
-			<th>Team <img onclick="sortTable(0, 0, this)" class="img-arrow" src="./UpWhite.png"><img onclick="sortTable(0, 1, this)" class="img-arrow" src="./DownWhite.png"></th>
-			<th>Location<img onclick="sortTable(1, 0, this)" class="img-arrow" src="./UpWhite.png"><img onclick="sortTable(1, 1, this)" class="img-arrow" src="./DownWhite.png"></th>
-			<th>Coach<img onclick="sortTable(2, 0, this)" class="img-arrow" src="./UpWhite.png"><img onclick="sortTable(2, 1, this)" class="img-arrow" src="./DownWhite.png"></th>
-			<th>Conference<img onclick="sortTable(3, 0, this)" class="img-arrow" src="./UpWhite.png"><img onclick="sortTable(3, 1, this)" class="img-arrow" src="./DownWhite.png"></th>
-			<th>Division<img onclick="sortTable(4, 0, this)" class="img-arrow" src="./UpWhite.png"><img onclick="sortTable(4, 1, this)" class="img-arrow" src="./DownWhite.png"></th>
-			<th>Arena<img onclick="sortTable(5, 0, this)" class="img-arrow" src="./UpWhite.png"><img onclick="sortTable(5, 1, this)" class="img-arrow" src="./DownWhite.png"></th>
+			<th>Team </th>
+			<th>Location</th>
+			<th>Coach</th>
+			<th>Conference</th>
+			<th>Division</th>
+			<th>Arena</th>
 		</tr>
+		</thead>
+		<tbody>
 		<tr>
 			<td><a href = "../Teams/Boston_Celtics.html"> Boston Celtics </a></td>
 			<td>Boston, MA</td>
@@ -87,6 +101,7 @@
 			<td>Pacific</td>
 			<td>Staples Center</td>
 		</tr>
+		</tbody>
 	</table>
 </body>
 </html>

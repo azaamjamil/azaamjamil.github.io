@@ -6,8 +6,22 @@
 
   <title>Players</title>
 
-  
-  <link rel="stylesheet" href="../bootstrap.css">
+<script type = "text/javascript" src = "jquery.js"></script>
+
+<script type = "text/javascript" src = "script.js"></script>
+
+<link rel="stylesheet" href="../bootstrap.css">
+
+<script type = "text/javascript">
+
+$(document).ready(function(){
+
+$("#dattable").DataTable({
+	"lengthMenu": [[3,6,9,-1],[3,6,9,"All"]]
+});
+});
+
+</script>
 
 
 </head>
@@ -17,19 +31,20 @@
 	<nav class="navbar navbar-default">
 	  <div class="container-fluid">
 	    <ul class="nav navbar-nav">
-	      <li><a href="../index.html">Home</a></li>
-	      <li class="active"><a href="./PlayersIndex.html">Players</a></li>
+	      <li class="extra"><a href="../index.html">Off the Glass</a></li>
+	      <li><a href="./PlayersIndex.html">Players</a></li>
 	      <li><a href="./TeamsIndex.html">Teams</a></li>
 	      <li><a href="./CoachesIndex.html">Coaches</a></li>
 	      <li><a href="../about.html">About</a></li>
 	    </ul>
 	  </div>
 	</nav>
-
+	
 	<h1>Players</h1>
 	<br>
 
-	<table class="table table-hover table-bordered">
+	<table class = "table table-hover table-bordered" id = "dattable">
+	<thead>	
 			<tr>
 				<th>Player</th>
 				<th>Team</th>
@@ -38,6 +53,8 @@
 				<th>Age</th>
 				<th>PPG</th>
 			</tr>
+			</thead>
+		<tbody>
 		<tr>
 			<td><a href = "../Players/Lebron_James.html">Lebron James</a></td>
 			<td><a href = "../Teams/Cleveland_Cavaliers.html"> Cleveland Cavaliers </a></td>
@@ -182,6 +199,7 @@
 			<td>28</td>
 			<td>27.2</td>
 		</tr>
+		</tbody>
 	</table>
 </body>
 </html>
