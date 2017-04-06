@@ -1,3 +1,24 @@
+commit 845def295ae9dae06b7d573afa312abbf8fa3474
+Author: vb5947 <vivek@ponbala.com>
+Date:   Thu Apr 6 16:41:58 2017 -0500
+
+    updated # of commits, issues, test
+
+commit edf6b421b1e4393128867474cfcd743c6e85ae15
+Merge: 4bb2f2f 328c040
+Author: Vivek Balamurugan <vivek@ponbala.com>
+Date:   Wed Apr 5 23:58:42 2017 -0500
+
+    Merge pull request #34 from azaamjamil/NatashaBranch
+    
+    Natasha branch by Vivek
+
+commit 4bb2f2f921fe82a5fc82209042844fc893adcd30
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Apr 5 17:57:35 2017 -0500
+
+    Added log
+
 commit a5b3e6ccdea491bb320c30a08aa07c4a3d6797e5
 Merge: b9284e3 349ea07
 Author: Azaam Jamil <azaamjamil@gmail.com>
@@ -5,11 +26,24 @@ Date:   Wed Apr 5 17:54:45 2017 -0500
 
     Merge branch 'master' of https://github.com/azaamjamil/azaamjamil.github.io
 
+commit 328c040d05da5ee8a4bd43bbdfc0bba79570c0ff
+Merge: b1f20ef 349ea07
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Apr 5 17:54:41 2017 -0500
+
+    Merge remote-tracking branch 'origin' into NatashaBranch
+
 commit b9284e39f5641712cac6a03706aee5b6dead0ed0
 Author: Azaam Jamil <azaamjamil@gmail.com>
 Date:   Wed Apr 5 17:54:09 2017 -0500
 
     Changed the logo for all the player's pages
+
+commit b1f20effe07b0bdc25f4a85e06bdeb288ebbd067
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Apr 5 17:53:00 2017 -0500
+
+    jk hopefully these links work now
 
 commit 349ea074df59c455064b4468683529ae166e8b14
 Merge: 266d2b5 00c7aee
