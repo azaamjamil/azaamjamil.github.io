@@ -6,7 +6,7 @@
 
   <title>Off The Glass</title>
 
-  <link rel="stylesheet" href="bootstrap.css">
+  <link rel="stylesheet" href="../static/css/bootstrap.css">
 
 </head>
 <body class="text-center">
@@ -19,11 +19,11 @@
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <ul class="nav navbar-nav">
-        <li><a href="./index.html"><img class="img-logo" src="basketball.png"></a></li>
-        <li><a href="./Tables/PlayersIndex.html">Players</a></li>
-        <li><a href="./Tables/TeamsIndex.html">Teams</a></li>
-        <li><a href="./Tables/CoachesIndex.html">Coaches</a></li>
-        <li><a href="./about.html">About</a></li>
+        <li><a href={{url_for('index')}}><img class="img-logo" src="../static/images/basketball.png"></a></li>
+        <li><a href={{url_for('PlayersIndex')}}>Players</a></li>
+        <li><a href={{url_for('TeamsIndex')}}>Teams</a></li>
+        <li><a href={{url_for('CoachesIndex')}}>Coaches</a></li>
+        <li><a href={{url_for('about')}}>About</a></li>
       </ul>
     </div>
   </nav>
@@ -66,18 +66,18 @@
   <div class="row text-center">
 
   	<div class="col-md-4">	
-  	<a href ="./Tables/PlayersIndex.html"><h3> Players </h3></a>
-  	<a href ="./Tables/PlayersIndex.html"><img class = "img-focus" src="http://hoopeduponline.com/wp-content/uploads/2016/01/kobe-bryant-x-michael-jordan-x-lebron-james-illustration.jpg"></a>
+  	<a href ={{url_for('PlayersIndex')}}><h3> Players </h3></a>
+  	<a href ={{url_for('PlayersIndex')}}><img class = "img-focus" src="http://hoopeduponline.com/wp-content/uploads/2016/01/kobe-bryant-x-michael-jordan-x-lebron-james-illustration.jpg"></a>
   	</div>
 
   	<div class="col-md-4">
-  	<a href ="./Tables/TeamsIndex.html"><h3> Teams </h3></a>
-  	<a href ="./Tables/TeamsIndex.html"><img class = "img-focus" src="https://nbaexplained.files.wordpress.com/2015/03/nba2k14-correct-team-logos-e1427375751434.jpg?w=500"></a>
+  	<a href ={{url_for('TeamsIndex')}}><h3> Teams </h3></a>
+  	<a href ={{url_for('TeamsIndex')}}><img class = "img-focus" src="https://nbaexplained.files.wordpress.com/2015/03/nba2k14-correct-team-logos-e1427375751434.jpg?w=500"></a>
   	</div>
 
   	<div class="col-md-4">
-  	<a href ="./Tables/CoachesIndex.html"><h3> Coaches </h3></a>
-  	<a href ="./Tables/CoachesIndex.html"><img class = "img-focus" src="http://ww4.hdnux.com/photos/54/72/51/11774587/23/1024x1024.jpg"></a>
+  	<a href ={{url_for('CoachesIndex')}}><h3> Coaches </h3></a>
+  	<a href ={{url_for('CoachesIndex')}}><img class = "img-focus" src="http://ww4.hdnux.com/photos/54/72/51/11774587/23/1024x1024.jpg"></a>
   	</div>
 
   	</div>
