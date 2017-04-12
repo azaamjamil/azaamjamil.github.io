@@ -31,11 +31,11 @@
 	  <nav class="navbar navbar-default">
 	    <div class="container-fluid">
 	      <ul class="nav navbar-nav">
-	        <li><a href="../index.html"><img class="img-logo" src="../basketball.png"></a></li>
-	        <li><a href="./PlayersIndex.html">Players</a></li>
-	        <li><a href="./TeamsIndex.html">Teams</a></li>
-	        <li><a href="./CoachesIndex.html">Coaches</a></li>
-	        <li><a href="../about.html">About</a></li>
+	        <li><a href={{url_for("index")}}><img class="img-logo" src="../basketball.png"></a></li>
+	        <li><a href={{url_for("PlayersIndex")}}>Players</a></li>
+	        <li><a href={{url_for("TeamsIndex")}}>Teams</a></li>
+	        <li><a href={{url_for("CoachesIndex")}}>Coaches</a></li>
+	        <li><a href={{url_for("about")}}>About</a></li>
 	      </ul>
 	    </div>
 	  </nav>
@@ -58,50 +58,50 @@
 		</thead>
 		<tbody>
 		<tr>
-			<td><a href = "../Coaches/Brad_Stevens.html">Brad Stevens</a></td>
+			<td><a href = {{url_for("Brad_Stevens")}}>Brad Stevens</a></td>
 			<td>2001 - Present</td>
-			<td><a href = "../Teams/Boston_Celtics.html"> Boston Celtics </a></td>
+			<td><a href = {{url_for("Boston_Celtics")}}> Boston Celtics </a></td>
 			<td>113-133</td>
 			<td>48-34</td>
 			<td>0</td>
 			
 		</tr>
 		<tr>
-			<td><a href = "../Coaches/Fred_Hoiberg.html">Fred Hoiberg</a></td>
+			<td><a href = {{url_for("Fred_Hoiberg")}}>Fred Hoiberg</a></td>
 			<td>2010 - Present</td>
-			<td><a href = "../Teams/Chicago_Bulls.html"> Chicago Bulls </a></td>
+			<td><a href = {{url_for("Chicago_Bulls")}}> Chicago Bulls </a></td>
 			<td>75-77</td>
 			<td>42-40</td>
 			<td>0</td>
 		</tr>
 		<tr>
-			<td><a href = "../Coaches/Tyronn_Lue.html">Tyronn Lue</a></td>
+			<td><a href = {{url_for("Tyronn_Lue")}}>Tyronn Lue</a></td>
 			<td>2016 - Present</td>
-			<td><a href = "../Teams/Cleveland_Cavaliers.html"> Cleveland Cavaliers </a></td>
+			<td><a href = {{url_for("Cleveland_Cavaliers")}}> Cleveland Cavaliers </a></td>
 			<td>27-14</td>
 			<td>N/A</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><a href = "../Coaches/Steve_Kerr.html">Steve Kerr</a></td>
+			<td><a href = {{url_for("Steve_Kerr")}}>Steve Kerr</a></td>
 			<td>2014 - Present</td>
-			<td><a href = "../Teams/Golden_State_Warriors.html"> Golden State Warriors </a></td>
+			<td><a href = {{url_for("Golden_State_Warriors")}}> Golden State Warriors </a></td>
 			<td>140-24</td>
 			<td>73-9</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><a href = "../Coaches/Gregg_Popovich.html">Gregg Popovich</a></td>
+			<td><a href = {{url_for("Gregg_Popovich")}}>Gregg Popovich</a></td>
 			<td>1996 - Present</td>
-			<td><a href = "../Teams/SA_Spurs.html"> San Antonio Spurs </a></td>
+			<td><a href = {{url_for("SA_Spurs")}}> San Antonio Spurs </a></td>
 			<td>1089-485</td>
 			<td>67-14</td>
 			<td>5</td>
 		</tr>
 		<tr>
-			<td><a href = "../Coaches/Luke_Walton.html">Luke Walton</a></td>
+			<td><a href = {{url_for("Luke_Walton")}}>Luke Walton</a></td>
 			<td>2016 - Present</td>
-			<td><a href = "../Teams/LA_Lakers.html"> Los Angeles Lakers </a></td>
+			<td><a href = {{url_for("LA_Lakers")}}> Los Angeles Lakers </a></td>
 			<td>20-48</td>
 			<td>N/A</td>
 			<td>0</td>

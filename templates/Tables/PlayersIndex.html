@@ -31,11 +31,11 @@ $("#dattable").DataTable({
 	  <nav class="navbar navbar-default">
 	    <div class="container-fluid">
 	      <ul class="nav navbar-nav">
-	        <li><a href="../index.html"><img class="img-logo" src="../basketball.png"></a></li>
-	        <li><a href="./PlayersIndex.html">Players</a></li>
-	        <li><a href="./TeamsIndex.html">Teams</a></li>
-	        <li><a href="./CoachesIndex.html">Coaches</a></li>
-	        <li><a href="../about.html">About</a></li>
+	        <li><a href={{url_for("index")}}><img class="img-logo" src="../basketball.png"></a></li>
+	        <li><a href={{url_for("PlayersIndex")}}>Players</a></li>
+	        <li><a href={{url_for("TeamsIndex")}}>Teams</a></li>
+	        <li><a href={{url_for("CoachesIndex")}}>Coaches</a></li>
+	        <li><a href={{url_for("about")}}>About</a></li>
 	      </ul>
 	    </div>
 	  </nav>
@@ -56,144 +56,144 @@ $("#dattable").DataTable({
 			</thead>
 		<tbody>
 		<tr>
-			<td><a href = "../Players/Lebron_James.html">Lebron James</a></td>
-			<td><a href = "../Teams/Cleveland_Cavaliers.html"> Cleveland Cavaliers </a></td>
+			<td><a href = {{url_for("Lebron_James")}}>Lebron James</a></td>
+			<td><a href = {{url_for("Cleveland_Cavaliers")}}> Cleveland Cavaliers </a></td>
 			<td>Small Forward</td>
 			<td>6'8''</td>
 			<td>32</td>
 			<td>27.1</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Kevin_Love.html">Kevin Love</a></td>
-			<td><a href = "../Teams/Cleveland_Cavaliers.html"> Cleveland Cavaliers </a></td>
+			<td><a href = {{url_for("Kevin_Love")}}>Kevin Love</a></td>
+			<td><a href = {{url_for("Cleveland_Cavaliers")}}> Cleveland Cavaliers </a></td>
 			<td>Power Forward/Center</td>
 			<td>6'10''</td>
 			<td>28</td>
 			<td>18.5</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Kyrie_Irving.html">Kyrie Irving</a></td>
-			<td><a href = "../Teams/Cleveland_Cavaliers.html"> Cleveland Cavaliers </a></td>
+			<td><a href = {{url_for("Kyrie_Irving")}}>Kyrie Irving</a></td>
+			<td><a href = {{url_for("Cleveland_Cavaliers")}}> Cleveland Cavaliers </a></td>
 			<td>Point Guard</td>
 			<td>6'3''</td>
 			<td>24</td>
 			<td>21.5</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Kobe_Bryant.html">Kobe Bryant</a></td>
-			<td><a href = "../Teams/LA_Lakers.html"> Los Angeles Lakers </a></td>
+			<td><a href = {{url_for("Kobe_Bryant")}}>Kobe Bryant</a></td>
+			<td><a href = {{url_for("LA_Lakers")}}> Los Angeles Lakers </a></td>
 			<td>Shooting Guard</td>
 			<td>6'6''</td>
 			<td>38</td>
 			<td>25.0</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Jordan_Clarkson.html">Jordan Clarkson</a></td>
-			<td><a href = "../Teams/LA_Lakers.html"> Los Angeles Lakers </a></td>
+			<td><a href = {{url_for("Jordan_Clarkson")}}>Jordan Clarkson</a></td>
+			<td><a href = {{url_for("LA_Lakers")}}> Los Angeles Lakers </a></td>
 			<td>Shooting Guard/Point Guard</td>
 			<td>6'5''</td>
 			<td>24</td>
 			<td>14.1</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/DAngelo_Russell.html">D'Angelo Russell</a></td>
-			<td><a href = "../Teams/LA_Lakers.html"> Los Angeles Lakers </a></td>
+			<td><a href = {{url_for("DAngelo_Russell")}}>D'Angelo Russell</a></td>
+			<td><a href = {{url_for("LA_Lakers")}}> Los Angeles Lakers </a></td>
 			<td>Point Guard</td>
 			<td>6'5''</td>
 			<td>21</td>
 			<td>13.8</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Isaiah_Thomas.html">Isaiah Thomas</a></td>
-			<td><a href = "../Teams/Boston_Celtics.html"> Boston Celtics </a></td>
+			<td><a href = {{url_for("Isaiah_Thomas")}}>Isaiah Thomas</a></td>
+			<td><a href = {{url_for("Boston_Celtics")}}> Boston Celtics </a></td>
 			<td>Point Guard</td>
 			<td>5'9''</td>
 			<td>28</td>
 			<td>18.9</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Paul_Pierce.html">Paul Pierce</a></td>
-			<td><a href = "../Teams/Boston_Celtics.html"> Boston Celtics </a></td>
+			<td><a href = {{url_for("Paul_Pierce")}}>Paul Pierce</a></td>
+			<td><a href = {{url_for("Boston_Celtics")}}> Boston Celtics </a></td>
 			<td>Small Forward</td>
 			<td>6'7''</td>
 			<td>37</td>
 			<td>19.8</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Kevin_Garnett.html">Kevin Garnett</a></td>
-			<td><a href = "../Teams/Boston_Celtics.html"> Boston Celtics </a></td>
+			<td><a href = {{url_for("Kevin_Garnett")}}>Kevin Garnett</a></td>
+			<td><a href = {{url_for("Boston_Celtics")}}> Boston Celtics </a></td>
 			<td>Power Forward/Center</td>
 			<td>6'11''</td>
 			<td>40</td>
 			<td>17.8</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Jimmy_Butler.html">Jimmy Butler</a></td>
-			<td><a href = "../Teams/Chicago_Bulls.html"> Chicago Bulls </a></td>
+			<td><a href = {{url_for("Jimmy_Butler")}}>Jimmy Butler</a></td>
+			<td><a href = {{url_for("Chicago_Bulls")}}> Chicago Bulls </a></td>
 			<td>Shooting Guard/Small Forward</td>
 			<td>6'7''</td>
 			<td>27</td>
 			<td>15.2</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Michael_Jordan.html">Michael Jordan</a></td>
-			<td><a href = "../Teams/Chicago_Bulls.html"> Chicago Bulls </a></td>
+			<td><a href = {{url_for("Michael_Jordan")}}>Michael Jordan</a></td>
+			<td><a href = {{url_for("Chicago_Bulls")}}> Chicago Bulls </a></td>
 			<td>Shooting Guard</td>
 			<td>6'6''</td>
 			<td>54</td>
 			<td>30.1</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Dwyane_Wade.html">Dwyane Wade</a></td>
-			<td><a href = "../Teams/Chicago_Bulls.html"> Chicago Bulls </a></td>
+			<td><a href = {{url_for("Dwyane_Wade")}}>Dwyane Wade</a></td>
+			<td><a href = {{url_for("Chicago_Bulls")}}> Chicago Bulls </a></td>
 			<td>Shooting Guard</td>
 			<td>6'4''</td>
 			<td>35</td>
 			<td>23.3</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/LaMarcus_Aldridge.html">LaMarcus Aldridge</a></td>
-			<td><a href = "../Teams/SA_Spurs.html"> San Antonio Spurs </a></td>
+			<td><a href = {{url_for("LaMarcus_Aldridge")}}>LaMarcus Aldridge</a></td>
+			<td><a href = {{url_for("SA_Spurs")}}> San Antonio Spurs </a></td>
 			<td>Power Forward</td>
 			<td>6'11''</td>
 			<td>31</td>
 			<td>19.1</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Kawhi_Leonard.html">Kawhi Leonard</a></td>
-			<td><a href = "../Teams/SA_Spurs.html"> San Antonio Spurs </a></td>
+			<td><a href = {{url_for("Kawhi_Leonard")}}>Kawhi Leonard</a></td>
+			<td><a href = {{url_for("SA_Spurs")}}> San Antonio Spurs </a></td>
 			<td>Small Forward</td>
 			<td>6'7''</td>
 			<td>25</td>
 			<td>16.2</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Pau_Gasol.html">Pau Gasol</a></td>
-			<td><a href = "../Teams/SA_Spurs.html"> San Antonio Spurs </a></td>
+			<td><a href = {{url_for("Pau_Gasol")}}>Pau Gasol</a></td>
+			<td><a href = {{url_for("SA_Spurs")}}> San Antonio Spurs </a></td>
 			<td>Power Forward/Center</td>
 			<td>7'0''</td>
 			<td>36</td>
 			<td>17.9</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Stephen_Curry.html">Stephen Curry</a></td>
-			<td><a href = "../Teams/Golden_State_Warriors.html"> Golden State Warriors </a></td>
+			<td><a href = {{url_for("Stephen_Curry")}}>Stephen Curry</a></td>
+			<td><a href = {{url_for("Golden_State_Warriors")}}> Golden State Warriors </a></td>
 			<td>Point Guard</td>
 			<td>6'3''</td>
 			<td>29</td>
 			<td>22.7</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Klay_Thompson.html">Klay Thompson</a></td>
-			<td><a href = "../Teams/Golden_State_Warriors.html"> Golden State Warriors </a></td>
+			<td><a href = {{url_for("Klay_Thompson")}}>Klay Thompson</a></td>
+			<td><a href = {{url_for("Golden_State_Warriors")}}> Golden State Warriors </a></td>
 			<td>Shooting Guard</td>
 			<td>6'7''</td>
 			<td>27</td>
 			<td>19.0</td>
 		</tr>
 		<tr>
-			<td><a href = "../Players/Kevin_Durant.html">Kevin Durant</a></td>
-			<td><a href = "../Teams/Golden_State_Warriors.html"> Golden State Warriors </a></td>
+			<td><a href = {{url_for("Kevin_Durant")}}>Kevin Durant</a></td>
+			<td><a href = {{url_for("Golden_State_Warriors")}}> Golden State Warriors </a></td>
 			<td>Small Forward</td>
 			<td>6'9''</td>
 			<td>28</td>
