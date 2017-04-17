@@ -1098,12 +1098,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #008cba;
+  color: #ffffff;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #008cba;
+  color: #ffffff;
   text-decoration: underline;
 }
 a:focus {
@@ -1205,8 +1205,8 @@ img {
   transition: all 0.2s ease-in-out;
   display: inline-block;
   max-width: 100%;
-  height: 375px;
-  width: 600px;
+  height: 400px;
+  width: 650px;
 }
 .img-arrow {
   padding: 4px;
@@ -1411,6 +1411,10 @@ mark,
 }
 .text-center {
   text-align: center;
+}
+.frontPage {
+  text-align: center;
+  background-image: url("../images/basketballcourt.png");
 }
 .text-justify {
   text-align: justify;
@@ -1700,9 +1704,9 @@ pre code {
   }
 }
 .container-fluid {
-  /*margin: 0 auto;*/
-  width: 500px;
-  text-align: center;
+  margin: 0 auto;
+  width: 350px;
+  text-align: left;
   /*margin-right: auto;
   margin-left: auto;
   padding-left: 15px;
@@ -3661,6 +3665,7 @@ tbody.collapse.in {
   font-weight: normal;
   line-height: 1.4;
   color: #555555;
+  font-weight: bold;
   white-space: nowrap;
 }
 .dropdown-menu > li > a:hover,
@@ -4426,6 +4431,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-nav {
+  text-align: center;
   margin: 6px -15px;
 }
 .navbar-nav > li > a {
