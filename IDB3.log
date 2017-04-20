@@ -1,0 +1,825 @@
+commit b32c5dd5dc94d36648f9c02fc4298900619d6373
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Apr 20 18:12:50 2017 -0500
+
+    Fixed Isaiah Thomas's Photo
+
+commit 176f946ebd9e170d1795bd1106e68de890e45468
+Merge: f2a21d5 211ebb8
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Apr 20 17:50:30 2017 -0500
+
+    Merge branch 'master' of https://github.com/azaamjamil/cs329e-idb
+
+commit f2a21d5ed70654fdf72624e1b2d4df90ac82fb70
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Apr 20 17:37:01 2017 -0500
+
+    Fixed pagination on Coaches and Teams
+
+commit 211ebb820a51cc427f0b23e9cee9b249e5ca3b0a
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Thu Apr 20 17:25:45 2017 -0500
+
+    Add files via upload
+    
+    wiki pics
+
+commit 44e56541b19bf5c8b854ccb5eb26381dc023895c
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Apr 20 14:53:11 2017 -0500
+
+    Fixed the navbar on Team
+
+commit 2b0698bc6623b2684fbde7136c708fb187f44028
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Apr 20 14:48:23 2017 -0500
+
+    Fixed the navbar on Team
+
+commit 954d3e5c916a2de70c66cc3603fd9461d1322559
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Apr 19 19:01:08 2017 -0500
+
+    Changed the font for the page
+
+commit d628a391c9ee42c3bd8d0783d64d421e4fdfd008
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Mon Apr 17 18:06:25 2017 -0500
+
+    Made changes to the front page
+
+commit 64afd2af9ae1ddff863857d29e3810ec774e8044
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Apr 12 17:48:47 2017 -0500
+
+    fixed links
+
+commit 1b9ebedabcddb795628867573abaff12e11294b9
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Apr 12 17:19:25 2017 -0500
+
+    Added bootstrap file to Tables
+
+commit e26639528ada1b2bac0e8cc288b29b079ed2e3a7
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Apr 12 15:00:00 2017 -0500
+
+    updated links
+
+commit 71249679229a568fdbd451b8da4f877905ec2f4c
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Apr 12 14:42:01 2017 -0500
+
+    updated links
+
+commit eb17aa154d8539a335a4f797ec6a4e7b87a1ae62
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Apr 12 14:32:04 2017 -0500
+
+    updated links
+
+commit ab28c22f20f338e9d924be3df7918dd566b0f452
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Apr 11 17:50:30 2017 -0500
+
+    updated nav bars with links
+
+commit f13c033bb544e655cf3ad12adb6ddd7d0ef56732
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Mon Apr 10 19:01:22 2017 -0500
+
+    Changed the links for the index page and pointed to the Bootstrap
+
+commit 198ae9171494941134e49d537006285476ee35bb
+Author: Azaam Jamil <azaamjam@cs.utexas.edu>
+Date:   Mon Apr 10 18:00:59 2017 -0500
+
+    Testing Flask
+
+commit 11f713d2a70efbe962bed3a9e00182e48a6b62f3
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Mon Apr 10 17:39:13 2017 -0500
+
+    Restructuring the directory
+
+commit 6b7cd6dc60deab8ec0d2ea11774cbbc46d6d2ae4
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Apr 6 17:12:51 2017 -0500
+
+    Submitting a more updated log
+
+commit 845def295ae9dae06b7d573afa312abbf8fa3474
+Author: vb5947 <vivek@ponbala.com>
+Date:   Thu Apr 6 16:41:58 2017 -0500
+
+    updated # of commits, issues, test
+
+commit edf6b421b1e4393128867474cfcd743c6e85ae15
+Merge: 4bb2f2f 328c040
+Author: Vivek Balamurugan <vivek@ponbala.com>
+Date:   Wed Apr 5 23:58:42 2017 -0500
+
+    Merge pull request #34 from azaamjamil/NatashaBranch
+    
+    Natasha branch by Vivek
+
+commit 4bb2f2f921fe82a5fc82209042844fc893adcd30
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Apr 5 17:57:35 2017 -0500
+
+    Added log
+
+commit a5b3e6ccdea491bb320c30a08aa07c4a3d6797e5
+Merge: b9284e3 349ea07
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Apr 5 17:54:45 2017 -0500
+
+    Merge branch 'master' of https://github.com/azaamjamil/azaamjamil.github.io
+
+commit 328c040d05da5ee8a4bd43bbdfc0bba79570c0ff
+Merge: b1f20ef 349ea07
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Apr 5 17:54:41 2017 -0500
+
+    Merge remote-tracking branch 'origin' into NatashaBranch
+
+commit b9284e39f5641712cac6a03706aee5b6dead0ed0
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Apr 5 17:54:09 2017 -0500
+
+    Changed the logo for all the player's pages
+
+commit b1f20effe07b0bdc25f4a85e06bdeb288ebbd067
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Apr 5 17:53:00 2017 -0500
+
+    jk hopefully these links work now
+
+commit 349ea074df59c455064b4468683529ae166e8b14
+Merge: 266d2b5 00c7aee
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Wed Apr 5 17:44:23 2017 -0500
+
+    Merge pull request #33 from azaamjamil/NatashaBranch
+    
+    adding bball logo to coaches and teams
+
+commit 00c7aee5a599ff1260df1b71bc780f4a2a10de6f
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Apr 5 17:43:40 2017 -0500
+
+    adding bball logo to coaches and teams
+
+commit 266d2b555ba066f6ce230c1dbf22f9d1b69f0858
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Apr 5 17:39:19 2017 -0500
+
+    Added a different basketball image
+
+commit 78efc788aac71a18a6c24ffd34a12a3c6d845002
+Merge: e0d0389 6db1653
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Wed Apr 5 13:16:33 2017 -0500
+
+    Merge pull request #32 from azaamjamil/NatashaBranch
+    
+    adding new nav bar to players + fixed about
+
+commit 6db1653b55e0860d46f8fb5c16b511cb9cf95ede
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Apr 5 13:14:16 2017 -0500
+
+    adding new nav bar to players + fixed about
+
+commit e0d0389d6cf4ef0d5b7deb8cecfafd66ac445a43
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Apr 5 12:39:44 2017 -0500
+
+    updated nav bar with red home to player pgs
+
+commit 7e91fd393b6fe4ee45ae6200f28cf3ca79e7f516
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Apr 5 11:58:01 2017 -0500
+
+    updated nav bar with red home
+
+commit 7c657a76ea961277256b38ffa56cb0f1a17404cb
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Apr 4 21:45:53 2017 -0500
+
+    do pics hold after push?
+
+commit 67a19ee3e80f30c443503ac3ddfc4893024c4382
+Merge: 8c05783 7b14b8b
+Author: Vivek Balamurugan <vivek@ponbala.com>
+Date:   Tue Apr 4 21:31:00 2017 -0500
+
+    Merge pull request #31 from azaamjamil/pics
+    
+    Pics merged with master
+
+commit 7b14b8b861737a9da39af21e07504feb2967012d
+Merge: 0e9ecb2 8c05783
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Apr 4 21:30:38 2017 -0500
+
+    adding pics to master
+
+commit 0e9ecb288aec7684f93d1fd940d1e3951b7a89f7
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Apr 4 21:29:02 2017 -0500
+
+    added final picture
+
+commit 8c05783e159b44c2bf66f7fe57e522ce2d2b5890
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Tue Apr 4 18:54:00 2017 -0500
+
+    Added Bootstrap
+
+commit 455cc8b6c4eb7de18e7ac5c28eae1a0a26f65489
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Tue Apr 4 18:11:39 2017 -0500
+
+    Finished pagination on all the pages
+
+commit cb2e948918ceab9176fdda60ef2d8a9a17130844
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Apr 4 14:45:54 2017 -0500
+
+    putting the test file into playersindex
+
+commit a3f47cc600f60bc186365ce2ac781c7952ec2d5f
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Apr 4 14:43:21 2017 -0500
+
+    making coachindex table up to date
+
+commit 39b02c250aa82c189b12016d6e42fc8634a2f9fe
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Apr 4 14:37:28 2017 -0500
+
+    added hosting pictures
+
+commit 4e23721c20a97009678b7887bb785bcf6de141ca
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Apr 4 14:34:09 2017 -0500
+
+    taking out testing sorting
+
+commit ce6f8b2c90b7a30c2cc06387fd67216f32c2285f
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Apr 4 13:18:08 2017 -0500
+
+    corrected spelling mistake
+
+commit 287f44bb3300e094d8171db82ea2fcacfe37de3f
+Merge: b1e6136 a37b6e5
+Author: Vivek Balamurugan <vivek@ponbala.com>
+Date:   Tue Apr 4 13:00:10 2017 -0500
+
+    Merge pull request #30 from azaamjamil/changingAbout
+    
+    added rows for issues, comms, * tests
+
+commit b1e6136400c6f4e2b813a6f6e286aaf8172e42a5
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Tue Apr 4 11:09:10 2017 -0500
+
+    Updated bootstrap to better stylize the numbers between pagination
+
+commit 3ced9d051bbe9e5471d8ad537e2e09764e26d810
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Mon Apr 3 18:01:04 2017 -0500
+
+    Sortin n pagination n table stuff
+
+commit f593a98ef31a29668e5faaf7b4e7899d81b65287
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Sun Apr 2 14:19:07 2017 -0500
+
+    Added Sort on the Teams page
+
+commit a37b6e5e9ab71f93eeb2db96497baf2ff14c4662
+Author: vb5947 <vivek@ponbala.com>
+Date:   Thu Mar 30 18:45:28 2017 -0500
+
+    added rows for issues, comms, * tests
+
+commit f6cf7c4bd3e80eca067d9bda9846d3bcd8e6ba19
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 21:03:10 2017 -0500
+
+    Last minute touches
+
+commit 729c8898ea8b5b744eac94bfcc95dc6b9aae394c
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 20:48:17 2017 -0500
+
+    Added Citation
+
+commit 5f3e9e1d68ed662e63d66f134e609125c77e8be3
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 20:26:54 2017 -0500
+
+    Updated IDB1.log
+
+commit 4a09bd265af6004a68db0973aff6d9a008653801
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 20:16:41 2017 -0500
+
+    Check the Grammar and Links for Project
+
+commit e49d1672a6e2b95f1e60792641d0acbe95d8304e
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 19:06:51 2017 -0500
+
+    Stretched the landing page a little more
+
+commit 0d13239fbc92c4c2b3794710f28daec4f7514f86
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 17:48:09 2017 -0500
+
+    Added a class in Bootstrap
+
+commit 587d535bbab45278f42acf70e627f9aeba06d552
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Thu Mar 23 17:46:47 2017 -0500
+
+    Create landing page and middle navbar
+
+commit 12280fdd2566d88aec7c99fd1d7a1cd1983716d7
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 17:42:47 2017 -0500
+
+    Created LOg, Adjusted the about file
+
+commit e8916fa7d5d5515178a94ac020e9058f6adc6b74
+Merge: 4399847 64c7024
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Thu Mar 23 16:23:59 2017 -0500
+
+    Merge pull request #29 from azaamjamil/NatashaBranch
+    
+    adding links and pictures to players
+
+commit 64c70248eec885fa554eee282b99e3e11a0cbc00
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Thu Mar 23 16:23:06 2017 -0500
+
+    adding links and pictures to players
+
+commit 4399847140644a84b8a7279a25e17f152d6c41a0
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 13:08:04 2017 -0500
+
+    Bootstrap for About Page
+
+commit abe09fcbce9b244d39201cc0519e0beb64ab4d5b
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Thu Mar 23 11:18:24 2017 -0500
+
+    Added links to coaches
+
+commit 5d55fa9fd4c2355812a6122a0f52aaf4e28755d9
+Author: vb5947 <vivek@ponbala.com>
+Date:   Thu Mar 23 05:05:19 2017 -0500
+
+    added paragraph hyperlinks
+
+commit 7259a4abaaaddae0a8388b3cbce98a6a95225922
+Author: vb5947 <vivek@ponbala.com>
+Date:   Thu Mar 23 02:29:40 2017 -0500
+
+    added all about page elements
+
+commit f8a98352381cd21f006d42d4f3a5ff00b5b73fdc
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Mar 22 21:18:03 2017 -0500
+
+    updated about - descriptions
+
+commit ec9af834035d4cb0f1a4b03c761025bcd9c393e3
+Merge: a2dfdd1 527fd80
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Wed Mar 22 20:53:29 2017 -0500
+
+    Merge pull request #28 from azaamjamil/NatashaBranch
+    
+    adding team/coach links and emojis up to Kahwi Leonard in alphabetica…
+
+commit 527fd80a7d65e565c6489e2d817252555d4a3e25
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Mar 22 20:52:50 2017 -0500
+
+    adding team/coach links and emojis up to Kahwi Leonard in alphabetical order
+
+commit a2dfdd1b25ee9703d7dbefe60e20073c88a5f9b8
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Wed Mar 22 19:44:04 2017 -0500
+
+    Adding players to paragraphs
+
+commit b493234c31153e4c366c07fe26b97af7dab851da
+Merge: af11ed6 131d315
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Wed Mar 22 19:33:00 2017 -0500
+
+    Merge pull request #27 from azaamjamil/NatashaBranch
+    
+    added coach links to teams
+
+commit 131d315a80e25f9ea2bbb6fa56892842706eb935
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Mar 22 19:32:22 2017 -0500
+
+    added coach links to teams
+
+commit af11ed61d5ac15c01b67c4b78c0fa3394d89af62
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Mar 22 19:06:46 2017 -0500
+
+    Worked on Nav Bar still need landing page
+
+commit 6ac7b2b5335cf702ffb3d8e44029b51903ebd6a2
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Mar 22 18:57:19 2017 -0500
+
+    Coaches Table
+
+commit 902bf32f652bc7f65f3de245a2d5209903764cd5
+Merge: 97137e8 47e84a9
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Mar 22 18:36:12 2017 -0500
+
+    Merge branch 'master' of https://github.com/azaamjamil/azaamjamil.github.io
+
+commit 97137e808d68910f1de8f82ecc21a9a13da163ba
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Mar 22 18:35:53 2017 -0500
+
+    Added Player and Team Tables
+
+commit c4242065ad0039cccab51056468792e8a478bcf6
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Mar 22 17:08:18 2017 -0500
+
+    Fixed videos that won't work
+
+commit 47e84a92fba74a644d86f88c0f1a507c31f9431f
+Merge: a93cb4f 1ec8af8
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Mar 22 16:46:33 2017 -0500
+
+    added about requirements
+
+commit a93cb4fdf69b526223c8ece6607162113a97f258
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Mar 22 16:44:00 2017 -0500
+
+    added all requirements
+
+commit 1ec8af8589a64e0ed59d63959c04f1532c10fc7e
+Merge: 0db0d91 874954b
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Mar 22 16:33:41 2017 -0500
+
+    Merge branch 'master' of https://github.com/azaamjamil/azaamjamil.github.io
+
+commit 0db0d913f6ec28bb32b3afe6b5a143ad02319d4c
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Wed Mar 22 16:33:06 2017 -0500
+
+    Added Bootstrap to all the player
+
+commit 874954bc18a098f48af68ca3ea4169f2053077d6
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Mar 22 16:27:56 2017 -0500
+
+    needs tools section
+
+commit 2dfcdc49aee2c1862de4fe5d75379e4e14c47019
+Merge: 740e310 3af2a37
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Mar 22 14:44:59 2017 -0500
+
+    fixed broken pictures
+
+commit 740e310ef7d007f5eb9a7b82ba724701e09fc550
+Author: vb5947 <vivek@ponbala.com>
+Date:   Wed Mar 22 14:42:52 2017 -0500
+
+    fixed broken pictures
+
+commit 3af2a3706dccfec8b4b17e19744be2810f52e24a
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Mar 21 23:51:43 2017 -0500
+
+    Applying bootstrap to all Teams
+
+commit c185a86a9d3d568329f0607ac0a7a23ad9688e15
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Mar 21 23:33:39 2017 -0500
+
+    Applying bootstrap to coaches
+
+commit 0a71b15c8f7876a26128c4b317e7692fdce94af6
+Merge: 4007d18 9b2ea9f
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Mar 21 20:45:05 2017 -0500
+
+    updating durant's pic @issue broken pictures
+
+commit 9b2ea9f89639c1486e2909ad1c81be3111553c16
+Merge: c3307ee 504831e
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Tue Mar 21 20:13:08 2017 -0500
+
+    Merge branch 'master' of https://github.com/azaamjamil/azaamjamil.github.io
+
+commit c3307ee19a36f5a7ab396401bfb1bf21faaa2481
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Tue Mar 21 20:11:59 2017 -0500
+
+    Added Bootstrap
+
+commit 4007d18486e735e34a79672d884884bd7c691631
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Mar 21 20:11:28 2017 -0500
+
+    fixed kevin durant picture @issue broken pictures
+
+commit 504831e42e5560870ca8386dff46b321969feeca
+Merge: f6a3ce6 ec3bde5
+Author: Vivek Balamurugan <vivek@ponbala.com>
+Date:   Tue Mar 21 18:44:25 2017 -0500
+
+    Merge pull request #9 from azaamjamil/VivekBranch
+    
+    Vivek branch - adding vivek's players
+
+commit f6a3ce6383f2a408749288eb49e67ce4c8adbc8a
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Tue Mar 21 17:39:24 2017 -0500
+
+    Michael Jordan
+
+commit ec3bde59b85cbe4148d291eb6a6fc19e72e112f7
+Merge: cf86565 8ea9163
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Mar 21 17:22:16 2017 -0500
+
+    going to merge to master
+
+commit 7d8dae829068c6b7a88fff2e0fc80032b3b017e3
+Author: azaamjamil <azaamjamil@gmail.com>
+Date:   Tue Mar 21 17:09:42 2017 -0500
+
+    Added CNAME file for custom domain (offtheglass.me)
+
+commit 1d0e8fcb3db435c75d77aac85123b7d71a7182f4
+Author: azaamjamil <azaamjamil@gmail.com>
+Date:   Tue Mar 21 16:55:05 2017 -0500
+
+    Create CNAME
+
+commit cf86565658b30afd2c86b5fca7d4339e83b316f7
+Author: vb5947 <vivek@ponbala.com>
+Date:   Tue Mar 21 16:40:11 2017 -0500
+
+    adding Vivek's players
+
+commit 8ea91638f2d2122a187d166adf6b04a664fa2450
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Mar 21 00:19:25 2017 -0500
+
+    Finishing up players embedding
+
+commit 0b088624641a617fdb86e9d3d7b6d40ac6558931
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Mar 21 00:09:57 2017 -0500
+
+    Adding embed on first half of players
+
+commit 475ec391d1ad3329d1ba46f26f36312b9375069b
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Mar 21 00:03:54 2017 -0500
+
+    Checking Embedded video for DLo
+
+commit 55af495779acac7933d3d60274ed5a923a0060fd
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Sun Mar 19 16:08:28 2017 -0500
+
+    Assing Eastern Conference Coaches HTML Pages
+
+commit 17e7965da7e4c2026bbdf97a6f527b85a5a6b826
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Sun Mar 19 15:54:23 2017 -0500
+
+    Adding HTML pages for Western Coaches
+
+commit 1f7de85fb759abdca4c2d3ee44d2e80472acbf92
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Sun Mar 19 15:22:42 2017 -0500
+
+    Creating master CSS for coaches
+
+commit 0e28140e44b63914dd6a4deded33a62aa02ca917
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Sun Mar 19 15:21:46 2017 -0500
+
+    Adding Western Conference Coaches
+
+commit bcc5966a979cb33a101374ac870f46163340d200
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Sat Mar 18 11:33:59 2017 -0500
+
+    Added 3 players for Celtics and Bulls
+
+commit 638e954c8b4a74a1e77daa3bb8b642bc2a9d7e1a
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Sat Mar 18 10:42:09 2017 -0500
+
+    Paul Pierce
+
+commit 4efd0476c3930bd80733620036fbed0de1c36f41
+Merge: 44404ba 384905b
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Fri Mar 17 23:29:45 2017 -0500
+
+    Merge pull request #7 from azaamjamil/NatashaBranch
+    
+    adding Lakers and Cavs Player pages
+
+commit 384905bbab6cf93f5c8ab3861f6c7d36c10e34fa
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Fri Mar 17 23:19:43 2017 -0500
+
+    adding Lakers and Cavs Player pages
+
+commit 44404ba07baf68a503f61d3f68e1c84afbf15e55
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Wed Mar 15 21:49:04 2017 -0500
+
+    Adding Eastern Conference Coaches
+
+commit 56a7953cd64f2e9a486a28c77e556e526a9d5468
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Wed Mar 15 21:47:59 2017 -0500
+
+    deleting random files idk why we have
+
+commit ad12c4308a03abb3e28cb480080b0e3c34a2e0ca
+Merge: 9181664 2841749
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Wed Mar 15 18:46:28 2017 -0500
+
+    Merge pull request #6 from azaamjamil/NatashaBranch
+    
+    Natasha branch
+
+commit 2841749be2be9e2c4884867a9856c331c6fa5fac
+Merge: b584336 ad75a2b
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Mar 15 18:43:49 2017 -0500
+
+    Merge remote-tracking branch 'origin' into NatashaBranch
+
+commit b58433686eb194bf66e2c6b3fbf25c40219f11a5
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Mar 15 18:34:47 2017 -0500
+
+    adding western conference
+
+commit ce58ca2be196b5d61b9fca72a259f6e32c79c0ff
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Mar 15 18:04:41 2017 -0500
+
+    adding Cleveland Cavaliers
+
+commit 9181664cb2f6a2c2b0404b4f858a447060b12fac
+Merge: ad75a2b 766c7e3
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Wed Mar 15 18:02:20 2017 -0500
+
+    Merge pull request #5 from azaamjamil/NatashaBranch
+    
+    adding Boston Celtics
+
+commit 766c7e357f7371310220d46c58ebdcac7321900f
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Mar 15 17:12:41 2017 -0500
+
+    adding Boston Celtics
+
+commit ad75a2b3677feebc4ec8e9651b54222ca93cd0b7
+Merge: 6e54fbb 61fea8b
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Wed Mar 15 16:46:15 2017 -0500
+
+    Merge pull request #4 from azaamjamil/NatashaBranch
+    
+    editing Bulls - vertical columns, rearranging
+
+commit 61fea8b0143ef65cc7f069281a6fc3d9552893f5
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Mar 15 15:15:17 2017 -0500
+
+    editing Bulls - vertical columns, rearranging
+
+commit 6e54fbbc8d6261b6140a53916332c8d20d5f7af1
+Merge: 322874b 3d23f28
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Wed Mar 15 14:43:06 2017 -0500
+
+    Merge pull request #3 from azaamjamil/NatashaBranch
+    
+    deleting one team folder bc we had 2, adding Chicago_Bulls
+
+commit 3d23f28ac59860a197d512fc1964ca4424df2033
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Wed Mar 15 14:40:29 2017 -0500
+
+    deleting one team folder bc we had 2, adding Chicago_Bulls
+
+commit 322874bbe13f1ce9667e2ac2ea6d1fbec647ba95
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Mar 14 22:47:20 2017 -0500
+
+    Adding Eastern Conference Teams Research
+
+commit 7bf327a413790fb59282f340530137b97b8c15e6
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Mar 14 22:09:17 2017 -0500
+
+    adding western conference team (complete)
+
+commit a87bc7245aef2243e3dbc147f5b7fa412898ea33
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Tue Mar 14 22:07:32 2017 -0500
+
+    deleing the Cleveland file bc not sure what it is
+
+commit 956705454d43984b07c42acb0a71d13d41897ba6
+Author: gsuriya96 <gilmansuriya@utexas.edu>
+Date:   Mon Mar 13 22:21:42 2017 -0500
+
+    Add files via upload
+    
+    Adding Western Conference Teams
+
+commit 7b31ebb105ecd9027393c0e52cbffbd32415b953
+Author: gilman96 <gilman96@cs.utexas.edu>
+Date:   Sat Mar 11 13:07:58 2017 -0600
+
+    fixing table alignment CSS on players page
+
+commit 636429319f2a64a1ecd7ce4c3337b4aedd79c77b
+Author: Azaam Jamil <azaamjamil@gmail.com>
+Date:   Fri Mar 10 11:19:46 2017 -0600
+
+    Started making a player page
+
+commit 9b7428998b7e047be5ff5dfd6c948639ed36ef77
+Author: vb5947 <vivek@ponbala.com>
+Date:   Thu Mar 9 18:23:23 2017 -0600
+
+    adding players folder
+
+commit 18eb8162fae6994fb76bdd4dd095898f5455510b
+Merge: 79c13f1 9b74289
+Author: Vivek Balamurugan <vivek@ponbala.com>
+Date:   Thu Mar 9 18:22:24 2017 -0600
+
+    Merge pull request #2 from azaamjamil/VivekBranch
+    
+    adding players folder
+
+commit 79c13f1fb62804d66fc00e7ed5b4a06022bfcef3
+Merge: 5d5aee1 d05e526
+Author: Natasha Pirani <natashapirani@utexas.edu>
+Date:   Thu Mar 9 18:12:22 2017 -0600
+
+    Merge pull request #1 from azaamjamil/NatashaBranch
+    
+    test file
+
+commit 5d5aee11480aeb49b6c70bf5b98d80b2376a4ec5
+Author: Vivek Balamurugan <vivek@ponbala.com>
+Date:   Thu Mar 9 18:11:20 2017 -0600
+
+    Create Cleveland_Cavaliers
+
+commit d05e52676161b640e6ed4e569ed3e75460148b2c
+Author: Natasha Pirani <np8598@cs.utexas.edu>
+Date:   Thu Mar 9 18:10:26 2017 -0600
+
+    test file
+
+commit b83eb1a27475c79fbf41945f3bf180b1bb146389
+Author: azaamjamil <azaamjamil@gmail.com>
+Date:   Thu Mar 9 17:05:24 2017 -0600
+
+    Initial commit
